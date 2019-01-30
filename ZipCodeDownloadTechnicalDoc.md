@@ -1,8 +1,8 @@
-# About FTPLink
+## About FTPLink
 
 ZipCode Download provides FTP link. You can automate the process of retrieving dataset by using our FTP link. The purpose of this document is to provide a quick reference for connecting and exchanging information between two systems. This document describes a typical process for an interactive or automated, File Transfer Protocol (FTP) session.
 
-# FTPLink
+## FTPLink
 
 [https://zipcodedownload.com/Account/Download/?file=FILENAME&username=YOURUSERNAME&password=PASSWORD](https://zipcodedownload.com/Account/Download/?file=FILENAME&username=YOURUSERNAME&password=PASSWORD)
 
@@ -30,7 +30,7 @@ The above FTP link of ZipCode Download is used to automate the process of downlo
 
     Password for zipcodedownload.
 
-# Feedback
+## Feedback
 
 ZIP Code Download has collected resources to assist its customers with using its products and services. If you can't find the answer to your question, feel free to contact one of our customer support reps. Our representatives are experienced with using the data in our databases and are more than willing to take the time to answer your questions. We appreciate hearing from you.
 
