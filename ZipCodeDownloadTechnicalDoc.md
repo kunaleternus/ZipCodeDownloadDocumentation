@@ -7,19 +7,28 @@ ZipCode Download provides FTP link. You can automate the process of retrieving d
 [https://zipcodedownload.com/Account/Download/?file=FILENAME&username=YOURUSERNAME&password=PASSWORD](https://zipcodedownload.com/Account/Download/?file=FILENAME&username=YOURUSERNAME&password=PASSWORD)
 
 The above FTP link of ZipCode Download is used to automate the process of downloading the file. The FTP link has three headers with a specific format which we need to set. The format is explained below with an example.
+
 1. **File Name**
-Our file name format is : apr2017_commercial_csv.zip
-apr - First three letters are of month you want to download the file apr for April.
-2017 - year of the updated file
-commercial - Product you are using.
-csv - File Format
-.zip - append .zip as you will get the file in zip format.
+
+    Our file name format is : apr2017_commercial_csv.zip
+    
+    apr - First three letters are of month you want to download the file apr for April.
+    
+    2017 - year of the updated file
+    
+    commercial - Product you are using.
+    
+    csv - File Format
+    
+    .zip - append .zip as you will get the file in zip format.
 
 2. **User Name**
-This is your registered email id associated with zipcodedownload.
+
+    This is your registered email id associated with zipcodedownload.
 
 3. **Password**
-Password for zipcodedownload.
+
+    Password for zipcodedownload.
 
 # Feedback
 
